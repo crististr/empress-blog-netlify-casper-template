@@ -1,5 +1,5 @@
 ---
-title: Welcome to empress-blog
+title: Bun venit !
 image: /images/welcome.jpg
 imageMeta:
   attribution:
